@@ -1,0 +1,2 @@
+rootProject.name = 'TFLite Text Classification Demo App'
+include ':app'
