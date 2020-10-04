@@ -13,5 +13,5 @@ Peanut Allergies. Currently trained to detect only 10 Products.
 - Google Teacheble Machine
 
 #### Screenshots 
-<a href="url"><img src="https://github.com/Mandar800/Dr.-Macro-Hobby-Project/ss1.jpeg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/Mandar800/Dr.-Macro-Hobby-Project/blob/master/ss1.jpeg" align="left" height="48" width="48" ></a>
 
